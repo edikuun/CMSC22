@@ -21,7 +21,7 @@ public class Menu {
         FileInputStream fis = null;
         ObjectInputStream ois = null;
 
-        List<Student> students = null;
+        List<Student> students = new ArrayList();
         
         BufferedReader br = null;
 
