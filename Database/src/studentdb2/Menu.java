@@ -75,9 +75,9 @@ public class Menu {
                 String ln = s.nextLine();
                 System.out.print("Enter favorite course: ");
                 String faveCourse = s.nextLine();
-                System.out.println("Enter course Description: ");
+                System.out.print("Enter course Description: ");
                 String courseDes = s.nextLine();
-                System.out.println("Enter crush name: ");
+                System.out.print("Enter crush name: ");
                 String cName = s.nextLine();
                 System.out.print("Enter year level: ");
                 int yl = s.nextInt();
